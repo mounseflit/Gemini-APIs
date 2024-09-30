@@ -16,4 +16,4 @@ This is a Node.js server to interact with the Google Generative AI API to perfor
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/google-generative-ai-server.git
+   git clone https://github.com/mounseflit/Gemini-APIs.git
