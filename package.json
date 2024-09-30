@@ -1,0 +1,21 @@
+{
+  "name": "google-generative-ai-server",
+  "version": "1.0.0",
+  "description": "Node.js server using Google Generative AI APIs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "Your Name",
+  "license": "Apache-2.0"
+}
